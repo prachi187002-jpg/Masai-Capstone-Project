@@ -49,7 +49,7 @@ bigbasket-analysis/
 The database and raw CSV exports can be regenerated using:
 
 ```bash
-python generate_data.py
+generate_data.py
 ```
 
 The script generates the project database and the raw data files required for the SQL and Pandas analysis.
