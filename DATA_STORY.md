@@ -1,7 +1,7 @@
 # BigBasket Strategic Performance Story (Jan–Jun 2026)
 
 ## Executive Summary
-Our **₹88,282 total revenue** hides a critical operational truth: BigBasket is overly dependent on high-margin stability while failing at daily-essential volume. With an **Average Order Value of ₹7,321** across only **434 orders**, our data indicates a low-frequency, high-ticket purchasing pattern rather than the high-frequency daily habit typical of successful e-grocery models. 
+Our **₹88,282 total revenue** hides a critical operational truth: BigBasket is overly dependent on high-margin stability while failing at daily-essential volume. With an **Average Order Value of ₹203.41** across only **434 orders**, our data indicates a low-frequency, high-ticket purchasing pattern rather than the high-frequency daily habit typical of successful e-grocery models. 
 
 This friction is highly visible in our category splits. **Household Essentials (₹21,715), Personal Care (₹16,382), and Bakery (₹15,410) are ahead of target**, proving that consumers trust us for planned, non-perishable stock-ups and scheduled treats. Household Essentials anchors the business—outperforming Personal Care by **₹5,333**—because long-shelf-life items easily survive delivery friction.
 
