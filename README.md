@@ -79,7 +79,7 @@ It contains the monthly category revenue analysis used for the reporting stage o
 
 The interactive Tableau Public dashboard is available here:
 
-**[Paste your live Tableau Public dashboard URL here]**
+**https://prod-in-a.online.tableau.com/#/site/prachi187002-a01094db83/workbooks/1559703?:origin=card_share_link**
 
 The dashboard includes:
 
